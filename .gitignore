@@ -48,3 +48,10 @@ logs/
 # Build outputs
 dist/
 build/
+
+# Large media files
+*.mov
+*.mp4
+*.avi
+*.mkv
+preview_vid.mov
